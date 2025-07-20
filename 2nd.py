@@ -8,4 +8,4 @@ CostToCustomer=TotalSale-discount
 print("Product:"+ProductName)
 print("UnitPrice"+str(UnitPrice))
 print("TotalSales"+str(TotalSale))
-print("Customer price"+str(CostToCustomer))
+print("Customer price"+str(CostToCustomer))                          
