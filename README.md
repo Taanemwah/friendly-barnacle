@@ -1,2 +1,0 @@
-# friendly-barnacle
-python
