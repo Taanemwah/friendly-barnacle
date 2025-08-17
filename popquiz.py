@@ -1,18 +1,18 @@
 quiz_data = [
     {
         "question": "Who sung the song Bad guy? ",
-        "options": ["Olivia Rodrigo", "Billie Eilish", "Taylor Swift"],
-        "answer": "Billie Eilish"
+        "options": ["a.Olivia Rodrigo", "b.Billie Eilish", "c.Taylor Swift"],
+        "answer": "b"
     },
     {
         "question": "Who sung the song Good 4 You? ",
-        "options": ["Louis Armstrong", "Ella Fitzerald", "Olivia Rodrigo"],
-        "answer": "Olivia Rodrigo"
+        "options": ["a.Louis Armstrong", "b.Ella Fitzerald", "c.Olivia Rodrigo"],
+        "answer": "c"
     },
     {
         "question": "Who sung the song Without You? ",
-        "options": ["The Kid Laroi", "Twenty One Pilots", "Billie Eilish"],
-        "answer": "The Kid Laroi"
+        "options": ["a.The Kid Laroi", "b.Twenty One Pilots", "c.Billie Eilish"],
+        "answer": "a"
     }
 ]
 score = 0
