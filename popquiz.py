@@ -13,6 +13,26 @@ quiz_data = [
         "question": "Who sung the song Without You? ",
         "options": ["a.The Kid Laroi", "b.Twenty One Pilots", "c.Billie Eilish"],
         "answer": "a"
+    },
+    {
+        "question": "Who was in Deadpool & Wolverine? ",
+        "options": ["a.Ryan Reynolds", "b.Tom Cruise", "c.Leonardo DiCaprio"],
+        "answer": "a"
+    },
+    {
+        "question": "Who was in Furiosa: A Mad Max Saga? ",
+        "options": ["a.Tom Holland", "b.Zendaya", "c.Anya Taylor-Joy"],
+        "answer": "c"
+    },
+    {
+        "question": "Who was in Monkey Man? ",
+        "options": ["a.Dev Patel", "b.Chris Pratt", "c.Scarlett Johansson"],
+        "answer": "a"   
+    },
+    {
+        "question": "Who was in Gladiator II? ",
+        "options": ["a.Paul Mescal", "b.Will Smith", "c.Emma Watson"],
+        "answer": "a"  
     }
 ]
 score = 0
