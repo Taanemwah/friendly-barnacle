@@ -1,3 +1,4 @@
+UserName =input("Enter your Name: ")
 QuizData = [
     {
         "question": "Someone sends you a text that is hurtful and makes you feel bad about yourself. What should you do? ",
@@ -40,4 +41,4 @@ for QuestData in QuizData:
             print(f"Incorrect. The correct answer was {QuestData['answer']}.")
         print("-" * 20) 
     
-        print(f"You scored {score} out of {len(QuizData)}.")
+        print(f"You scored {score} out of {len(QuizData)}. Well done " + (UserName))
