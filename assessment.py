@@ -1,4 +1,4 @@
-UserName =input("Enter your Name: ")
+UserName =input("Enter your Full Name: ")
 QuizData = [
     {
         "question": "Someone sends you a text that is hurtful and makes you feel bad about yourself. What should you do? ",
